@@ -3,5 +3,7 @@
   "obsidian-tagfolder",
   "obsidian-git",
   "obsidian-linter",
-  "code-emitter"
+  "code-emitter",
+  "obsidian-kanban",
+  "obsidian-languagetool-plugin"
 ]

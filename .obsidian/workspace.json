@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-31.md",
+                "file": "2025-06-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-31"
+              "title": "2025-06-02"
             }
           },
           {
@@ -255,26 +255,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "f06e6be041ec0956",
   "lastOpenFiles": [
-    "2025-06-01.md",
-    "2025-05-31.md",
     "2025-05-30.md",
+    "2025-05-31.md",
+    "2025-06-01.md",
+    "2025-06-02.md",
+    "pininfo.md",
+    "Untitled.canvas",
     "templates/daily-log - {{date}}.md",
     "Untitled.md",
-    "2025-06-02.md",
     "Project Templater.md",
     "pytest-static.md",
     "Quantum Leap - Gates.md",
     "Principles of Electrolysis to Explore.md",
     "pytest-static Specifications.md",
     "Evo Packing.md",
-    "pininfo.md",
     "templates",
-    "Untitled.canvas",
     "Cleaning 3653 Shaw Avenue.md",
     "2023-05-02.md",
     "Quantum Leap/Levels/1-1 Bits.md",
