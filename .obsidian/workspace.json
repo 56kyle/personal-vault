@@ -51,14 +51,28 @@
             "id": "8434b1b7e8953015",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Principles of Electrolysis to Explore.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Principles of Electrolysis to Explore"
+            }
+          },
+          {
+            "id": "f06e6be041ec0956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-01"
             }
           },
           {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,16 +134,6 @@
             }
           },
           {
-            "id": "478e638967ee3a6d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "c9252a588ee03ac3",
             "type": "leaf",
             "state": {
@@ -137,6 +141,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9dd3cf61a4117f01",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
         ]
@@ -159,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2025-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-06-01"
             }
           },
           {
@@ -242,16 +257,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8434b1b7e8953015",
+  "active": "0791f011abdc23d3",
   "lastOpenFiles": [
+    "Untitled",
+    "2025-05-30.md",
+    "pininfo.md",
+    "2025-05-31.md",
+    "2025-06-01.md",
+    "Untitled.canvas",
+    "pytest-static.md",
     "Principles of Electrolysis to Explore.md",
-    "Quantum Leap - Gates.md",
     "Evo Packing.md",
+    "Quantum Leap - Gates.md",
     "Project Templater.md",
     "pytest-static Specifications.md",
     "Cleaning 3653 Shaw Avenue.md",
-    "Untitled.md",
-    "2025-06-01.md",
     "2023-05-02.md",
     "Quantum Leap/Levels/1-1 Bits.md",
     "Quantum Leap/Levels/1-3 Making a QBit.md",
