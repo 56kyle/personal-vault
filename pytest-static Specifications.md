@@ -1,9 +1,9 @@
 ---
-tags:
-  - pytest-static
-  - pytest-plugin
-  - repo
+tags: [pytest-static, pytest-plugin, repo]
+date-created: 2023-05-07
+date-modified: 2025-06-02
 ---
+
 Overall Goal:
 	Design a Python Pytest Plugin that can be used for getting all possible return values from a given callable based off of its type annotations.
 
@@ -34,7 +34,7 @@ def test_foo(foo: int, bar: str):
 
 def demo_func(a: int) -> str:
 	return str(a) + 'suffix'
- 
+
 @pytest.mark.example_name(argnames='foo, bar', argtypes=[int, demo_func])
 def test_foo(foo: int, bar: str):
 	assert isinstance(foo, int)

@@ -1,9 +1,11 @@
 ---
-tags:
-  - idea
-  - dev-tool
-  - project-specification
+tags: [idea, dev-tool, project-specification]
+aliases: [Names]
+linter-yaml-title-alias: Names
+date-created: 2025-04-16
+date-modified: 2025-06-02
 ---
+
 # Names
 - Quilt
 - Blanket

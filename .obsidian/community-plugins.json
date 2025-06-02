@@ -2,6 +2,6 @@
   "dataview",
   "obsidian-tagfolder",
   "obsidian-git",
-  "frontmatter-modified-date",
-  "obsidian-linter"
+  "obsidian-linter",
+  "code-emitter"
 ]
