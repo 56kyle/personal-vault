@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-02.md",
+                "file": "2025-06-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-02"
+              "title": "2025-06-06"
             }
           },
           {
@@ -153,7 +153,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -260,20 +261,22 @@
   },
   "active": "f06e6be041ec0956",
   "lastOpenFiles": [
+    "cookiecutter-robust-python.md",
+    "2025-06-06.md",
+    "2025-06-02.md",
+    "Evo Packing.md",
+    "pytest-static Specifications.md",
+    "Project Templater.md",
+    "Quantum Leap - Gates.md",
+    "pytest-static.md",
+    "Principles of Electrolysis to Explore.md",
+    "pininfo.md",
+    "2025-06-01.md",
     "2025-05-30.md",
     "2025-05-31.md",
-    "2025-06-01.md",
-    "2025-06-02.md",
-    "pininfo.md",
+    "Untitled Kanban.md",
     "Untitled.canvas",
     "templates/daily-log - {{date}}.md",
-    "Untitled.md",
-    "Project Templater.md",
-    "pytest-static.md",
-    "Quantum Leap - Gates.md",
-    "Principles of Electrolysis to Explore.md",
-    "pytest-static Specifications.md",
-    "Evo Packing.md",
     "templates",
     "Cleaning 3653 Shaw Avenue.md",
     "2023-05-02.md",

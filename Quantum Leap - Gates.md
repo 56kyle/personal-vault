@@ -1,8 +1,5 @@
 ---
-tags:
-  - quantum-leap
-  - game
-  - quantum-computing
+tags: [quantum-leap, game, quantum-computing]
 date-created: 2025-05-01
 date-modified: 2025-06-02
 modified: 2025-06-02T00:08:03-04:00
